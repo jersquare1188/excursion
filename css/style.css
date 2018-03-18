@@ -1,15 +1,27 @@
     .main-title {
         font-size: 50px;
-        font-family: verdana;
         text-align: center;
         font-weight: normal;
-        color: white;
     }
     body {
         background-color: black;
         text-align: center;
+        font-family: verdana;
+        color: white;
     }
     .dload-link {
         color: aquamarine;
         font-size: 16px;
+    }
+    .guide-stn {
+        font-size: 42px;
+        font-weight: 300;
+    }
+    .guide-des {
+        font-size: 21px;
+        color: gray;
+    }
+    .cr {
+        text-align: right;
+        color: gray;
     }
